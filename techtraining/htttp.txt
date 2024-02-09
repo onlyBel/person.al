@@ -1,0 +1,1 @@
+Hypertext Transfer Protocol is an application layer for distributed , collaborative  hypermedia information system. It is the foundation  of communication for world wide web where hypertext documents include hyperlinks to other resources that users can access .
